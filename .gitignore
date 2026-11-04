@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+.DS_Store
+
+git add .
+git commit -m "First commit: README and test notebook"
